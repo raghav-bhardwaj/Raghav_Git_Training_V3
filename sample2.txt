@@ -1,1 +1,2 @@
 This is second sample file.
+revert 2
